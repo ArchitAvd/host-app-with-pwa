@@ -1,0 +1,9 @@
+{
+  "name": "My Ionic PWA",
+  "short_name": "IonicPWA",
+  "description": "An example of a PWA in Ionic",
+  "background_color": "#ffffff",
+  "theme_color": "#3880ff",
+  "start_url": ".",
+  "display": "standalone"
+}
